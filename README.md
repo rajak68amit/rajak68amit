@@ -10,8 +10,6 @@
 </p>
 
 ---
-
-# 👨‍💻 Amit Rajak  
 **Senior Backend Developer | Node.js | NestJS | PHP Laravel | REST APIs | Microservices | MySQL | 11+ Years Experience (Including Node.js)**  
 📞 **+91-9540481824** | ✉️ **amitkumarrajak68@gmail.com** | 📍 **Sector 16, Greater Noida**  
 🔗 [LinkedIn: linkedin.com/in/rajak68amit](https://linkedin.com/in/rajak68amit)  
