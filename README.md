@@ -17,7 +17,7 @@
 ---
 
 ## 🧑‍💻 Professional Summary  
-Senior Backend Developer with **11 years of experience**, including **4+ years in Node.js and NestJS**, and a strong background in **PHP Laravel**.  
+Senior Backend Developer with **11 years of experience**, including ** 5 years in Node.js and NestJS**, and a strong background in **PHP Laravel**.  
 Skilled in scalable backend design, RESTful APIs, microservices, and system optimization.  
 Proven expertise in **Node.js, NestJS, Express, PHP, Laravel, MySQL, Docker,** and **Git**.  
 Adept at leading teams and building enterprise-grade solutions.
