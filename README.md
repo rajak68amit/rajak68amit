@@ -43,24 +43,17 @@ Adept at leading teams and building enterprise-grade solutions.
 - Designed APIs for client credit management, booking, and attendance tracking.  
 - Improved system performance by **40%**.
 
-### **Sr. Software Developer – Lectrix Pvt. Ltd.**  
-*Jul 2023 – Apr 2024*  
-- Integrated **Ozonetel** call system.  
-- Built **reporting dashboards** and guided junior developers.  
-- Developed **Ticket Management System** using Express.js.
+### **Backend Developer (Project-based Roles) | .**  
+*May 2020 – May 2024*  
+Worked across multiple organizations:
 
-### **Sr. Software Developer – Techouts Software Solutions**  
-*Apr 2022 – Dec 2022*  
-- Migrated **government web apps (Lok Sabha, Rajya Sabha, Parliament)** to scalable Node.js architecture with **GraphQL APIs**.
-
-### **Sr. Software Developer – My-Scon Pvt. Ltd.**  
-*May 2021 – Mar 2022*  
-- Developed **PartyApp** and **Essor systems** using Laravel REST APIs.  
-- Integrated **video chat features**.  
-- Built **Vanlinemove & Interstate Mover** backend using Node.js.
+- **Lectrix** → Call system integration, dashboards, ticket system  
+- **Techouts** → Govt portals migration (Node.js, GraphQL)  
+- **My-Scon** → Real-time chat & video systems (WebRTC)  
+- **Aarav Info** → Backend APIs & workflow automation 
 
 ### **Software Developer – Prakhar Software Solutions Pvt. Ltd.**  
-*Apr 2019 – Apr 2021*  
+*Apr 2019 – May 2019*  
 - Built **Vote Counting System** for Govt. of India using Node.js & Laravel.  
 - Automated booth tracking via **Google Maps API**.
 
@@ -79,6 +72,19 @@ Adept at leading teams and building enterprise-grade solutions.
 ### **Software Developer – Butech**  
 *Jan 2014 – Feb 2015*  
 - Designed and implemented a **real-time logistics tracking system** for delivery coordination and supply chain optimization.
+
+
+### ** Technical Project / Backend Initiative Redirise – URL Shortener & Analytics
+Platform (Ongoing | Personal Technical Project **
+- Designed and developed scalable backend using Node.js, NestJS, Redis, and BullMQ
+Built link shortening, tracking, and analytics system Implemented queue-based
+processing for handling high-volume events Designed architecture for performance
+optimization and scalability Exploring AI-based insights and recommendation features for
+link performance
+
+- This project is part of continuous backend learning and innovation alongside
+professional experience.
+
 
 ---
 
